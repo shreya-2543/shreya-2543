@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Deep-fake detection system<br>👯 I’m looking to collaborate on fullstack,AI/ML<br>🤝 I’m looking for ML/DL<br>🌱 I’m currently exploring the intersection of front-end development, AI/ML, and data visualization.<br>⚡ A coder's life: It's not just a job, it's a passion
+🔭 I'm currently working on Deep-fake detection system<br>👯 I’m looking to collaborate on fullstack,AI/ML<br>🤝 I’m looking for MI/DL<br>🌱 I’m currently exploring the intersection of front-end development, AI/ML, and data visualization.<br>⚡ A coder's life: It's not just a job, it's a passion
 
 
 ## 🌐 Socials:
